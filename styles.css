@@ -1,2 +1,43 @@
 
 /* Your CSS Code here. */
+.item-1{ 
+	background-color:green;  
+	width:100px;  
+	height:100px;  
+}
+.item-2{ 
+	background-color:green;  
+	width:100px; 
+	height:100px;  
+} 
+.item-3{ 
+	background-color:green;   
+	width:100px; 
+	height:100px;  
+}
+.item-4{ 
+	background-color:green;   
+	width:100px; 
+	height:100px;  
+}
+.item-5{ 
+	background-color:green;  
+	width:100px; 
+	height:100px;  
+}
+.item-6{ 
+	background-color:red;  
+	width:100px; 
+	height:100px;  
+}
+.item-7{ 
+	background-color:blue;   
+	width:100px; 
+	height:100px;  
+} 
+.holder{    
+	display:flex; 
+	flex-wrap:wrap;   
+	font-size:50px; 
+	justify-content:center; 
+	}  
